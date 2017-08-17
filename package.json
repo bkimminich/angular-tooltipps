@@ -1,6 +1,6 @@
 {
   "name": "angular-tooltips",
-  "version": "1.2.2",
+  "version": "1.5.0",
   "description": "Angular.js tooltips module.",
   "homepage": "http://720kb.github.io/angular-tooltips",
   "main": "index.js",
@@ -59,6 +59,10 @@
       "name": "Dario Andrei",
       "email": "wouldgo84@gmail.com",
       "url": "https://github.com/wouldgo"
+    },
+    {
+      "name": "Björn Kimminich",
+      "email": "bjoern.kimminich@owasp.org"
     }
   ]
 }
