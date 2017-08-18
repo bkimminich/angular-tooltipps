@@ -4,7 +4,9 @@ Angular Tooltips
 
 [![Join the chat at https://gitter.im/720kb/angular-tooltips](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/720kb/angular-tooltips?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-> THIS IS **NOT** THE MODULE YOU ARE LOOKING FOR! Please use https://github.com/720kb/angular-tooltips! This repository exists only for security awareness and training purposes to demonstrate the issue of _typosquatting_! Please read https://github.com/bkimminich/juice-shop/issues/369 for more information!
+> ![THIS IS NOT THE PACKAGE YOU ARE LOOKING FOR](http://i0.kym-cdn.com/entries/icons/original/000/018/682/obi-wan.jpg)
+>
+> THIS IS **NOT** THE PACKAGE YOU ARE LOOKING FOR! Please use https://github.com/720kb/angular-tooltips! This repository exists only for security awareness and training purposes to demonstrate the issue of _typosquatting_! Please read https://github.com/bkimminich/juice-shop/issues/369 for more information!
 
 Angular Tooltips is an AngularJS directive that generates a tooltip on your element.
 
